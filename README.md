@@ -8,4 +8,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stanislav-shevchenko-0711b918b/)
 <br/>
 
+[My small webpage](https://makidzusi-github-io.vercel.app/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makidzusi)](https://github.com/anuraghazra/github-readme-stats)
