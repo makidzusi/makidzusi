@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there👋
+## My name is Stanislav, i am frontend dev
+
+## Skills: Vue, React, Nuxt, Node.js, SQL e.t.c
 
 - 🔭 I am currently working for an outsourcing company.
 - 🌱 I’m currently learning mobile development with flutter
