@@ -5,4 +5,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stanislav-shevchenko-0711b918b/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makidzusi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makidzusi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
