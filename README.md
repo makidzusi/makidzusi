@@ -1,5 +1,6 @@
 ### Hi there👋
 ## My name is Stanislav, i am frontend dev
+### Computer science student in [Blagoveshchensk State Pedagogical University](https://www.bgpu.org/)
 
 ### Skills: Vue, React, Nuxt, Node.js, SQL e.t.c
 
