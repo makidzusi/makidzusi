@@ -1,10 +1,10 @@
 ### Hi there👋
-## My name is Stanislav, i am frontend dev
+## My name is Stanislav, i am software engineer
 ### Computer science student in [Blagoveshchensk State Pedagogical University](https://bgpu.ru/index.jsp)
 
 ### Skills: Vue, React, Nuxt, Node.js, SQL e.t.c
 
-- 🔭 I am currently working for an outsourcing company.
+- 🔭 I am currently working in [HappyJob](https://happy-job.ru/).
 - 🌱 I’m currently learning mobile development with flutter
 - 📫 How to reach me: 
   - [Habr](https://career.habr.com/stasshevch) 
