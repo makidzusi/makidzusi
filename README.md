@@ -13,7 +13,3 @@
 <br/>
 
 [My personal page](https://makidzusi-github-io.vercel.app/)
-
-[My blog](https://nxut-blog-default.vercel.app/articles)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makidzusi)](https://github.com/anuraghazra/github-readme-stats)
